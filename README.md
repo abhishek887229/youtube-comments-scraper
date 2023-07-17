@@ -12,6 +12,7 @@ you can extract comments for any footage, most web pages including youtube are d
 #put the keyword and full name of the video want to scrap 
 search.send_keys(" ")
 
+
 in the  send key put the name or keyword of the video you want to scrap it will automate the work and at last it will provide a CSV file that contains all the comments. the name of the CSV file will be *you_tube_comment_1.csv*
 
 
